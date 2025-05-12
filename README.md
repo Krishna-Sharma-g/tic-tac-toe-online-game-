@@ -1,7 +1,6 @@
 <h1>The client of Tic-Tac-Toe online</h1>
 <p>This is a client-side app of the Tic-Tac-Toe online game built using React.js. The game allows two players to play against each other in real time, using Socket.IO for communication between the server and the client. You can also play solo with a bot and customize the game with settings like cell row width or difficulty.</br>
 
-Here is the GitHub repository for the server https://github.com/OGUMAN/tic-tac-toe-server</p>
 <h1>What is Tic-Tac-Toe?</h1>
 <p>Tic-Tac-Toe is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. If there are no free cells and nobody won - it's a draw.</p>
 <h1>How to Play</h1>
